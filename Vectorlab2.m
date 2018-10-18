@@ -1,3 +1,7 @@
+% Vectorlab2
+% This lab deals with simulating heat transfer inside a wall. I use both 
+% Neumann and Dirichlet boundary conditions as well as mixed conditions.
+
 %% Problem 1:
 clc; clf;clear all;
 
