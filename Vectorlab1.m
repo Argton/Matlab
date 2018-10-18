@@ -1,8 +1,8 @@
-%% Vektorlabb 1. Useful commands: quiver streamline contour divergence curl
+%% Vectorlab 1. 
 % In this lab I learned how to better visualise data in 3D. The lab deals 
 % with weather phenomena and how we can apply different vector operations 
 % on vectors describing wind strengths and pressure.
-
+% Useful commands: quiver streamline contour divergence curl
 
 clear all
 clc
