@@ -1,4 +1,9 @@
 %% Vektorlabb 1. Useful commands: quiver streamline contour divergence curl
+% In this lab I learned how to better visualise data in 3D. The lab deals 
+% with weather phenomena and how we can apply different vector operations 
+% on vectors describing wind strengths and pressure.
+
+
 clear all
 clc
 p = load('tryckfalt.dat');
